@@ -1,0 +1,8 @@
+C:\Users\GamingVPS\source\repos\Vista\bin\Debug\Vista.dll
+C:\Users\GamingVPS\source\repos\Vista\bin\Debug\Vista.pdb
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.dll
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.pdb
+C:\Users\GamingVPS\source\repos\Vista\obj\Debug\Vista.Lista.resources

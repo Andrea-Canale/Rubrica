@@ -1,0 +1,6 @@
+C:\Users\GamingVPS\source\repos\Griglia\bin\Debug\Griglia.dll
+C:\Users\GamingVPS\source\repos\Griglia\bin\Debug\Griglia.pdb
+C:\Users\GamingVPS\source\repos\Griglia\obj\Debug\Griglia.csproj.AssemblyReference.cache
+C:\Users\GamingVPS\source\repos\Griglia\obj\Debug\Griglia.csproj.CoreCompileInputs.cache
+C:\Users\GamingVPS\source\repos\Griglia\obj\Debug\Griglia.dll
+C:\Users\GamingVPS\source\repos\Griglia\obj\Debug\Griglia.pdb

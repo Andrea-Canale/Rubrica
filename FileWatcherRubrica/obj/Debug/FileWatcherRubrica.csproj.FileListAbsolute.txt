@@ -1,0 +1,9 @@
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\bin\Debug\FileWatcherRubrica.dll
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\bin\Debug\FileWatcherRubrica.pdb
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\obj\Debug\FileWatcherRubrica.csproj.AssemblyReference.cache
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\obj\Debug\FileWatcherRubrica.csproj.CoreCompileInputs.cache
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\obj\Debug\FileWatcherRubrica.dll
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\obj\Debug\FileWatcherRubrica.pdb
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\bin\Debug\Griglia.dll
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\bin\Debug\Griglia.pdb
+C:\Users\GamingVPS\source\repos\FileWatcherRubrica\obj\Debug\FileWatcherRubrica.csproj.CopyComplete

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rubrica>
+  <contatto>
+    <nome>ciao</nome>
+    <cognome>pippo</cognome>
+    <numero>1231225</numero>
+  </contatto>
+  <contatto>
+    <nome>ciao</nome>
+    <cognome>ciao</cognome>
+    <numero>3516226538</numero>
+  </contatto>
+  <contatto>
+    <nome>ciao</nome>
+    <cognome>ciao</cognome>
+    <numero>3516226538</numero>
+  </contatto>
+  <contatto>
+    <nome>pippo</nome>
+    <cognome>cocaina</cognome>
+    <numero>3516226538</numero>
+  </contatto>
+  <contatto>
+    <nome>ciao</nome>
+    <cognome>ciao</cognome>
+    <numero>3516226538</numero>
+  </contatto>
+  <contatto>
+    <nome>ciao</nome>
+    <cognome>ciao234432</cognome>
+    <numero>3516226511</numero>
+  </contatto>
+</rubrica>

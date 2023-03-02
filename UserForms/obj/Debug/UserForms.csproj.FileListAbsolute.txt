@@ -1,0 +1,8 @@
+C:\Users\GamingVPS\source\repos\UserForms\bin\Debug\UserForms.dll
+C:\Users\GamingVPS\source\repos\UserForms\bin\Debug\UserForms.pdb
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.csproj.AssemblyReference.cache
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.UserControl1.resources
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.dll
+C:\Users\GamingVPS\source\repos\UserForms\obj\Debug\UserForms.pdb
